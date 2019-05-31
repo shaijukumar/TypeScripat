@@ -10,3 +10,5 @@ git push -u origin master
 Git add . 
 git commit -m "Change5"
 git push origin master
+
+git pull
