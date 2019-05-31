@@ -1,5 +1,6 @@
 //tsc 1.test1.ts
 //node  1.test1.js
+//
 
 function test1(){
     for(var i=0;i<5;i++){
