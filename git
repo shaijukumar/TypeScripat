@@ -1,3 +1,5 @@
+https://github.com/shaijukumar/TypeScripat
+
 echo "# TypeScripat" >> README.md
 git init
 git add README.md
@@ -6,5 +8,5 @@ git remote add origin https://github.com/shaijukumar/TypeScripat.git
 git push -u origin master
 
 Git add . 
-git commit -m "Change2"
+git commit -m "Change5"
 git push origin master
